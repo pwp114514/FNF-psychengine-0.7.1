@@ -1,6 +1,7 @@
 package;
 
 import flixel.graphics.FlxGraphic;
+import.backend.SUtil;
 
 import flixel.FlxGame;
 import flixel.FlxState;
