@@ -57,7 +57,7 @@ jobs:
 
       - name: Installing Haxelib
         run: |
-          haxelib setup ~/haxelib
+          haxelib setup ~/home/runner/haxelib
           haxelib install hxcpp 4.3.1.2 > /dev/null
           haxelib install lime 8.0.2
           haxelib install openfl 9.2.2
